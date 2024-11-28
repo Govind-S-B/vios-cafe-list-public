@@ -1,0 +1,22 @@
+---
+name: "Creative Commons"
+mapsLink: "https://maps.google.com/creative-commons"
+wifi: true
+hotChocolatePrice: 5.5
+---
+
+# Creative Commons
+
+Visit this cafe to experience a great work environment.
+
+## Location
+You can find us on [Google Maps](https://maps.google.com/creative-commons)
+
+## Amenities
+- Free WiFi available
+
+- Comfortable seating
+- Great atmosphere
+
+## Notes
+Perfect spot for remote work with reliable internet connection.

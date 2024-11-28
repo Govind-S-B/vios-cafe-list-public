@@ -1,0 +1,16 @@
+slug,name,mapsLink,wifi,hotChocolatePrice
+cafe-culture,Cafe Culture,https://maps.google.com/cafe-culture,true,4.25
+book-cafe,The Book Cafe,https://maps.google.com/book-cafe,true,5.00
+urban-brew,Urban Brew,https://maps.google.com/urban-brew,true,4.75
+garden-bistro,Garden Bistro,https://maps.google.com/garden-bistro,true,3.95
+quiet-nook,The Quiet Nook,https://maps.google.com/quiet-nook,false,3.50
+coffee-collective,Coffee Collective,https://maps.google.com/coffee-collective,true,4.50
+artisan-corner,Artisan Corner,https://maps.google.com/artisan-corner,true,5.25
+study-spot,The Study Spot,https://maps.google.com/study-spot,true,4.00
+zen-cafe,Zen Cafe,https://maps.google.com/zen-cafe,false,3.75
+digital-den,Digital Den,https://maps.google.com/digital-den,true,4.95
+cozy-corner,Cozy Corner,https://maps.google.com/cozy-corner,false,3.25
+writers-retreat,Writers Retreat,https://maps.google.com/writers-retreat,true,4.85
+morning-brew,Morning Brew,https://maps.google.com/morning-brew,true,4.15
+creative-commons,Creative Commons,https://maps.google.com/creative-commons,true,5.50
+serenity-space,Serenity Space,https://maps.google.com/serenity-space,false,3.85

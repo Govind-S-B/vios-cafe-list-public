@@ -1,0 +1,22 @@
+---
+name: "Artisan Corner"
+mapsLink: "https://maps.google.com/artisan-corner"
+wifi: true
+hotChocolatePrice: 5.25
+---
+
+# Artisan Corner
+
+Visit this cafe to experience a great work environment.
+
+## Location
+You can find us on [Google Maps](https://maps.google.com/artisan-corner)
+
+## Amenities
+- Free WiFi available
+
+- Comfortable seating
+- Great atmosphere
+
+## Notes
+Perfect spot for remote work with reliable internet connection.

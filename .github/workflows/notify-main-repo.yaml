@@ -1,0 +1,16 @@
+name: Notify Main Repository
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: Govind-S-B/vios-cafe-list
+          event-type: cafes-updated

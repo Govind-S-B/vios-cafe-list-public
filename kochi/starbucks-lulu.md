@@ -1,7 +1,7 @@
 ---
 name: "Starbucks Lulu"
 mapsLink: "https://maps.google.com"
-wifi: false
+wifi: true
 hotChocolatePrice: 0
 ---
 

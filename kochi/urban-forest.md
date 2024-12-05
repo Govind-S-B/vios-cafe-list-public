@@ -1,7 +1,7 @@
 ---
 name: "Urban Forest"
 mapsLink: "https://goo.gl/maps/VwPrP4kYpEPX7bUC8"
-wifi: false
+wifi: true
 hotChocolatePrice: 0
 ---
 

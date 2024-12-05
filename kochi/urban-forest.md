@@ -7,4 +7,6 @@ hotChocolatePrice: 0
 
 # Urban Forest
 
+Open hours: 5pm to 3am, has wifi
+
 Imported from: https://github.com/thetronjohnson/remotekochi/tree/main/src/pages/cafes 
